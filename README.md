@@ -40,14 +40,9 @@
 ## Run Locally
 
 ```
-git clone https://github.com/AsishRaju/450-DSA.git
-npm install
-npm start
-```
 
-[![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/AsishRaju/450-DSA)
 
-## Credits »
+## Credits
 
 #### Curated list of question in [450dsa] is based on _[DSA Cracker Sheet]_ by [Love Babbar]
 
